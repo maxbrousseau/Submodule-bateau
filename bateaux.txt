@@ -8,3 +8,6 @@ Ajout gros bateau
 Ajout petit bateau
 
 Bateau a junior
+
+
+Le plus beau bateau == celui a max
